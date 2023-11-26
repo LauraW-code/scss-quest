@@ -8,6 +8,7 @@
   border: solid #f57e2a 6.6666666667px;
   box-shadow: 6.6666666667px 6.6666666667px 10px #b14e08;
   background-color: none;
+  border-radius: 50px;
 }
 
 .span2 {
@@ -16,4 +17,5 @@
   border: solid #f5ba3b 20px;
   box-shadow: 20px 20px 10px #c0860a;
   background-color: none;
+  border-radius: 50px;
 }
