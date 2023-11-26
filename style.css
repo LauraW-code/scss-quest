@@ -1,0 +1,13 @@
+.span1 {
+  padding: 6px;
+  border: solid #f76b20 1.5px;
+  border-radius: 50%;
+  box-shadow: 1.5px 1.5px 10px #7a2d04;
+}
+
+.span2 {
+  padding: 20px;
+  border: solid #f7b620 5px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px #7a5604;
+}
