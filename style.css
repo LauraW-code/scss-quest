@@ -1,3 +1,7 @@
+body {
+    display: inline-flex;
+}
+
 .span1 {
   padding: 6px;
   border: solid #f76b20 1.5px;
